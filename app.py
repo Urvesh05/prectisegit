@@ -8,6 +8,6 @@ def sub(a,b,d):
 sub(4,2,6)
 
 
-def div(a,b):
-    return a/b
-div(8,2)
+def div(a,b,r):
+    return a/b.r
+div(8,2,4)
