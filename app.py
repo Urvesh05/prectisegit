@@ -9,5 +9,5 @@ sub(4,2,6)
 
 
 def div(a,b,r):
-    return a/b.r
+    return a/b/r
 div(8,2,4)
